@@ -1,0 +1,102 @@
+{
+  "candidateId" : "123",
+  "name" : "John Doe",
+  "emailAddresses" : [ "john.doe@gmail.com" ],
+  "phoneNumbers" : [ "+14155552671" ],
+  "location" : "San Francisco, CA",
+  "links" : {
+    "LinkedIn" : "https://linkedin.com/in/johndoe",
+    "GitHub" : "https://github.com/johndoe",
+    "Portfolio" : "http://portfolio.johndoe.me"
+  },
+  "headline" : "Senior Software Architect",
+  "yearsExperience" : 8.0,
+  "skills" : [ {
+    "name" : "JavaScript",
+    "provenance" : {
+      "source" : "CSV",
+      "confidence" : 0.9
+    }
+  }, {
+    "name" : "Python",
+    "provenance" : {
+      "source" : "CSV",
+      "confidence" : 0.9
+    }
+  }, {
+    "name" : "Amazon Web Services",
+    "provenance" : {
+      "source" : "CSV",
+      "confidence" : 0.9
+    }
+  } ],
+  "experience" : [ {
+    "company" : "Google",
+    "role" : "Software Engineer",
+    "startDate" : "2021-05",
+    "endDate" : "Present",
+    "description" : "Coding search algorithms",
+    "provenance" : {
+      "source" : "CSV",
+      "confidence" : 0.9
+    }
+  } ],
+  "education" : [ {
+    "institution" : "UC Berkeley",
+    "degree" : "B.S.",
+    "fieldOfStudy" : "Computer Science",
+    "startDate" : "2013-09",
+    "endDate" : "2017-05",
+    "provenance" : {
+      "source" : "CSV",
+      "confidence" : 0.9
+    }
+  } ],
+  "overallConfidence" : 0.87,
+  "provenance" : {
+    "emails" : {
+      "source" : "CSV",
+      "confidence" : 0.9
+    },
+    "skills" : {
+      "source" : "CSV",
+      "confidence" : 0.9
+    },
+    "education" : {
+      "source" : "CSV",
+      "confidence" : 0.9
+    },
+    "fullName" : {
+      "source" : "CSV",
+      "confidence" : 0.9
+    },
+    "phones" : {
+      "source" : "CSV",
+      "confidence" : 0.9
+    },
+    "location" : {
+      "source" : "CSV",
+      "confidence" : 0.9
+    },
+    "links" : {
+      "source" : "CSV",
+      "confidence" : 0.9
+    },
+    "yearsExperience" : {
+      "source" : "CSV",
+      "confidence" : 0.9
+    },
+    "candidateId" : {
+      "source" : "CSV",
+      "confidence" : 0.9
+    },
+    "experience" : {
+      "source" : "CSV",
+      "confidence" : 0.9
+    },
+    "headline" : {
+      "source" : "Resume TXT",
+      "confidence" : 0.6
+    }
+  }
+}

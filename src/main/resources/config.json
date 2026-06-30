@@ -1,0 +1,25 @@
+{
+  "selectedFields": [
+    "candidateId",
+    "fullName",
+    "emails",
+    "phones",
+    "location",
+    "links",
+    "headline",
+    "yearsExperience",
+    "skills",
+    "experience",
+    "education",
+    "provenance",
+    "overallConfidence"
+  ],
+  "fieldRenames": {
+    "fullName": "name",
+    "emails": "emailAddresses",
+    "phones": "phoneNumbers"
+  },
+  "includeConfidence": true,
+  "includeProvenance": true,
+  "missingValueHandling": "omit"
+}

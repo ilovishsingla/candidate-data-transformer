@@ -1,0 +1,16 @@
+C:\Users\singl\OneDrive\Desktop\Candidate-data-transformer\Candidate-data-transformer\src\main\java\com\eightfold\model\Candidate.java
+C:\Users\singl\OneDrive\Desktop\Candidate-data-transformer\Candidate-data-transformer\src\main\java\com\eightfold\model\Education.java
+C:\Users\singl\OneDrive\Desktop\Candidate-data-transformer\Candidate-data-transformer\src\main\java\com\eightfold\parser\JsonParser.java
+C:\Users\singl\OneDrive\Desktop\Candidate-data-transformer\Candidate-data-transformer\src\main\java\com\eightfold\merger\CandidateMerger.java
+C:\Users\singl\OneDrive\Desktop\Candidate-data-transformer\Candidate-data-transformer\src\main\java\com\eightfold\normalizer\NameNormalizer.java
+C:\Users\singl\OneDrive\Desktop\Candidate-data-transformer\Candidate-data-transformer\src\main\java\com\eightfold\transformer\CandidateTransformer.java
+C:\Users\singl\OneDrive\Desktop\Candidate-data-transformer\Candidate-data-transformer\src\main\java\com\eightfold\normalizer\DateNormalizer.java
+C:\Users\singl\OneDrive\Desktop\Candidate-data-transformer\Candidate-data-transformer\src\main\java\com\eightfold\parser\ResumeParser.java
+C:\Users\singl\OneDrive\Desktop\Candidate-data-transformer\Candidate-data-transformer\src\main\java\com\eightfold\model\Experience.java
+C:\Users\singl\OneDrive\Desktop\Candidate-data-transformer\Candidate-data-transformer\src\main\java\com\eightfold\normalizer\PhoneNormalizer.java
+C:\Users\singl\OneDrive\Desktop\Candidate-data-transformer\Candidate-data-transformer\src\main\java\com\eightfold\model\Config.java
+C:\Users\singl\OneDrive\Desktop\Candidate-data-transformer\Candidate-data-transformer\src\main\java\com\eightfold\Main.java
+C:\Users\singl\OneDrive\Desktop\Candidate-data-transformer\Candidate-data-transformer\src\main\java\com\eightfold\normalizer\SkillNormalizer.java
+C:\Users\singl\OneDrive\Desktop\Candidate-data-transformer\Candidate-data-transformer\src\main\java\com\eightfold\model\Skill.java
+C:\Users\singl\OneDrive\Desktop\Candidate-data-transformer\Candidate-data-transformer\src\main\java\com\eightfold\model\Provenance.java
+C:\Users\singl\OneDrive\Desktop\Candidate-data-transformer\Candidate-data-transformer\src\main\java\com\eightfold\parser\CsvParser.java

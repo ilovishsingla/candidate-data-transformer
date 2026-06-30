@@ -1,0 +1,32 @@
+John Doe
+Senior Software Architect
+Location: San Francisco, CA
+Email: john.doe@gmail.com, john.work@gmail.com
+Phone: (415) 555-2671, +1-555-123-4567
+
+Links:
+- https://github.com/johndoe
+- https://linkedin.com/in/johndoe
+- http://portfolio.johndoe.me
+
+Skills:
+JavaScript, Py, AWS, React, Docker, Kubernetes
+
+Work Experience:
+
+Company: Google LLC
+Role: Senior Software Engineer
+Dates: May 2021 - Present
+Description: Developed high-volume search infrastructure using Java and Python.
+
+Company: Stripe
+Role: Software Engineer
+Dates: 2017-06 - 2021-04
+Description: Designed payment APIs handling millions of requests daily.
+
+Education:
+
+Institution: University of California, Berkeley
+Degree: Bachelor of Science
+Field of Study: Computer Science
+Dates: 2013-09 - 2017-05
